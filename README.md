@@ -1,6 +1,6 @@
 # webtoon
 
-A new Flutter project.
+플루터 스터디 & 실습용 프로젝트, 간소화된 웹툰 구현하기
 
 ## Getting Started
 
